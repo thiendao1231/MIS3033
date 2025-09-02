@@ -1,4 +1,4 @@
-﻿//generate a random integer between 1 and 5
+﻿﻿//generate a random integer between 1 and 5
 using System;
 
 Console.WriteLine("Welcome to our game!");
